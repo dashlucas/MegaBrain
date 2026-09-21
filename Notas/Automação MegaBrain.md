@@ -11,3 +11,8 @@ origem: telegram-n8n
 
 Configuração do ecossistema n8n, Antigravity e Telegram integrada ao GitHub para automação do MegaBrain.
 
+
+
+## 🔗 Conexões Relacionadas
+- [[Central MegaBrain]]
+- [[MegaBrain-Overview-20-09-2026]]
