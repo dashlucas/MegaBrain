@@ -1,7 +1,7 @@
 ---
 title: "MegaBrain Briefing - 25/11/2026"
 tipo: briefing-segundo-cerebro
-data: "25/11/2026 08:31:23"
+data: "25/11/2026 16:18:15"
 tags:
   - megabrain
   - segundo-cerebro
@@ -12,20 +12,19 @@ tags:
 # 🧠 MegaBrain: Overview do Segundo Cérebro (25/11/2026)
 
 ## 📊 Métricas do Grafo de Conhecimento
-- **Notas no Cofre:** 119
-- **Conexões Ativas (Wikilinks):** 1072
-- **Tags Mais Frequentes:** #dev (63), #anotação (61), #tarefa (61), #3d-techart (61), #projetos (61), #checklist (61), #central (61), #megabrain (60)
+- **Notas no Cofre:** 120
+- **Conexões Ativas (Wikilinks):** 1091
+- **Tags Mais Frequentes:** #dev (64), #anotação (62), #tarefa (62), #3d-techart (62), #projetos (62), #checklist (62), #central (62), #megabrain (61)
 
 ### 🌟 Hubs Centrais
-- [[Tarefas]] — 409 ligações
-- [[MegaBrain-Overview-21-09-2026]] — 95 ligações
-- [[MegaBrain-Overview-22-09-2026]] — 89 ligações
-- [[MegaBrain-Overview-23-09-2026]] — 85 ligações
-- [[Automação MegaBrain]] — 80 ligações
+- [[Tarefas]] — 416 ligações
+- [[MegaBrain-Overview-21-09-2026]] — 96 ligações
+- [[MegaBrain-Overview-22-09-2026]] — 90 ligações
+- [[MegaBrain-Overview-23-09-2026]] — 86 ligações
+- [[Automação MegaBrain]] — 81 ligações
 
 ### 🏝️ Notas Isoladas (Oportunidades de Conexão)
-- [[Resumo-Emails-22112026]]
-- [[Resumo-Emails-24112026]]
+- Nenhuma nota órfã! Grafo 100% interligado.
 
 ---
 
